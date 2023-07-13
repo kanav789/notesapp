@@ -1,3 +1,5 @@
+
+alert("hello world");
 const addbtn = document.querySelector("#addBtn");
 const main = document.querySelector("#main");
 // const delete = document.querySelector(".delete")
